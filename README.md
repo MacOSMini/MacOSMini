@@ -1,4 +1,4 @@
-# ![Beautiful Sunset](https://imgtr.ee/images/2023/07/23/de3f516e1e3da6bee89c02046ffdd416.jpeg)
+# ![IMG-0590.jpg](https://imgtr.ee/images/2023/07/23/0f97dd116ecef00504db60799277c9c5.jpeg)
 ## **MacOSMini**
 - 🧭 I’m currently working on **BetterSafari**
 - 🌱 I’m currently learning HTML,CSS amd JS(JavaScript)
